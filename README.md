@@ -1,8 +1,3 @@
-#!/bin/bash
-
-# Writing README.md content to a file
-
-cat <<EOL > README.md
 # Properties of Matrices
 
 ## Overview
